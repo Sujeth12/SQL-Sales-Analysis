@@ -8,6 +8,9 @@ regional performance gaps, category profitability, and seasonal trends.
 - PostgreSQL 
 - VS Code + SQLTools extension
 - Dataset: Kaggle Superstore Sales Dataset (9,994 rows)
+## Dataset
+- Dataset: Kaggle Superstore Sales Dataset (9,994 rows)
+Source: [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Key Insights
 - West region leads in both sales ($725K) and profit margin (14.9%)
